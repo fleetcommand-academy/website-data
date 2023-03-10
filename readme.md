@@ -73,8 +73,13 @@ interface ShipProjectile {
 
 }
 
+interface BPSource {
+
+}
+
 interface Ship {
   name: string
+  blueprintSources: BPSource[];
 
 }
 ```
