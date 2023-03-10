@@ -25,10 +25,9 @@ This repo houses the data that is pulled by _FleetCommand.Academy_. Below are th
         },
       },
     ],
-    "
     "notes": string,
     "introduced": string,
-  }
+  },
 ]
 ```
 
